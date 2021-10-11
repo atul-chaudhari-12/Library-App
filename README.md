@@ -1,4 +1,3 @@
-# Library-App
 # Demo Library App
 
 ## Links to Essential Documents
